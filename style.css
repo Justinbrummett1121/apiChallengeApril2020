@@ -1,0 +1,27 @@
+.wrapper{
+    width: 100%;
+    max-width: 98%;
+}
+
+body{
+    background-color: rgb(151, 148, 148);
+}
+
+.nba img{
+    width: 100;
+    float: left;
+}
+
+.nfl img{
+    width: 100;
+    float: left;
+}
+
+.mlb img{
+    width: 100; 
+    float: left;
+}
+
+.controls{
+    text-align: center;
+}
